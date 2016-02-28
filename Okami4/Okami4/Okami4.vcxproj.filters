@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="原始程式檔">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="標頭檔">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="資源檔">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="game_Display.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="game_Draw.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="game_Init.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="game_Key.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="game_Mouse.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="game_Reshape.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="game_Time.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="game_Var.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="kgl\kglGLExt.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="kgl\kglTexture.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="game_process.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="game_draw_processing.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="game_Block.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="game_Collision.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="game_monster.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="kgl\kglGLExt.c">
+      <Filter>原始程式檔</Filter>
+    </ClCompile>
+    <ClCompile Include="kgl\kglTexture.cpp">
+      <Filter>原始程式檔</Filter>
+    </ClCompile>
+    <ClCompile Include="game_Display.cpp">
+      <Filter>原始程式檔</Filter>
+    </ClCompile>
+    <ClCompile Include="game_Draw.cpp">
+      <Filter>原始程式檔</Filter>
+    </ClCompile>
+    <ClCompile Include="game_Init.cpp">
+      <Filter>原始程式檔</Filter>
+    </ClCompile>
+    <ClCompile Include="game_Key.cpp">
+      <Filter>原始程式檔</Filter>
+    </ClCompile>
+    <ClCompile Include="game_Main.cpp">
+      <Filter>原始程式檔</Filter>
+    </ClCompile>
+    <ClCompile Include="game_Mouse.cpp">
+      <Filter>原始程式檔</Filter>
+    </ClCompile>
+    <ClCompile Include="game_Reshape.cpp">
+      <Filter>原始程式檔</Filter>
+    </ClCompile>
+    <ClCompile Include="game_Time.cpp">
+      <Filter>原始程式檔</Filter>
+    </ClCompile>
+    <ClCompile Include="game_Var.cpp">
+      <Filter>原始程式檔</Filter>
+    </ClCompile>
+    <ClCompile Include="game_process.cpp">
+      <Filter>原始程式檔</Filter>
+    </ClCompile>
+    <ClCompile Include="game_draw_processing.cpp">
+      <Filter>原始程式檔</Filter>
+    </ClCompile>
+    <ClCompile Include="game_Block.cpp">
+      <Filter>原始程式檔</Filter>
+    </ClCompile>
+    <ClCompile Include="game_Collision.cpp">
+      <Filter>原始程式檔</Filter>
+    </ClCompile>
+    <ClCompile Include="game_monster.cpp">
+      <Filter>原始程式檔</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

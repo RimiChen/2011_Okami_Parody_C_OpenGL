@@ -1,0 +1,41 @@
+﻿已經開始建置於 2011/11/29 下午 12:49:34。
+     1>節點 2 (build 目標) 上的專案 "D:\Rimi\game_programing\Okami4\Okami4\Okami4.vcxproj"。
+     1>InitializeBuildStatus:
+         由於指定了 "AlwaysCreate"，因此正在建立 "Debug\Okami4.unsuccessfulbuild"。
+       ClCompile:
+         所有輸出都是最新的。
+         所有輸出都是最新的。
+       ManifestResourceCompile:
+         所有輸出都是最新的。
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Rimi\game_programing\Okami4\Debug\Okami4.exe" /INCREMENTAL /NOLOGO /LIBPATH:../../freeglut kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Okami4.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\Rimi\game_programing\Okami4\Debug\Okami4.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Rimi\game_programing\Okami4\Debug\Okami4.lib" /MACHINE:X86 Debug\Okami4.exe.embed.manifest.res
+         Debug\game_Block.obj
+         Debug\game_Collision.obj
+         Debug\game_Display.obj
+         Debug\game_Draw.obj
+         Debug\game_draw_processing.obj
+         Debug\game_Init.obj
+         Debug\game_Key.obj
+         Debug\game_Main.obj
+         Debug\game_monster.obj
+         Debug\game_Mouse.obj
+         Debug\game_process.obj
+         Debug\game_Reshape.obj
+         Debug\game_Time.obj
+         Debug\game_Var.obj
+         Debug\kglGLExt.obj
+         Debug\kglTexture.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\Okami4.exe.embed.manifest" /manifest Debug\Okami4.exe.intermediate.manifest
+         所有輸出都是最新的。
+       LinkEmbedManifest:
+         所有輸出都是最新的。
+         Okami4.vcxproj -> D:\Rimi\game_programing\Okami4\Debug\Okami4.exe
+       FinalizeBuildStatus:
+         正在刪除檔案 "Debug\Okami4.unsuccessfulbuild"。
+         正在變更時間戳記 "Debug\Okami4.lastbuildstate"。
+     1>專案 "D:\Rimi\game_programing\Okami4\Okami4\Okami4.vcxproj" (build 目標) 建置完成。
+
+建置成功。
+
+經過時間 00:00:00.34
